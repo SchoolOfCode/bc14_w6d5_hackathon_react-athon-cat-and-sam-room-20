@@ -1,0 +1,16 @@
+#recipe-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: 700;
+
+}

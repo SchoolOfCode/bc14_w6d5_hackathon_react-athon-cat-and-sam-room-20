@@ -1,12 +1,14 @@
 # React-athon
 
-## Task 1 - API Research (20 - 30 mins)
+## Task 1 - API Research (20 - 30 mins) ✅
 
 Choose at least one external API to fetch data from that you'll then use in your React app. This [list](https://apilist.fun) may help. Remember to read the API's documentation and send test requests from Postman to view the data you get back first before deciding it's suitable to use. You can always use the API list we used in the hackathon earlier in the course as well.
 
+
+- "https://www.themealdb.com/api/json/v1/1/random.php" Recipe API chosen
 ## Task 2 - Ideate and Plan (30 - 60 mins)
 
-- Once you choose an API and test it out, use Disney ideation to come up with an idea of what you want to build - what problem are you solving? Who are your users, and what do they need? Set a timer for each room (dreamer, realist, and critic).
+- Once you choose an API and test it out ✅, use Disney ideation to come up with an idea of what you want to build - what problem are you solving? Who are your users, and what do they need? Set a timer for each room (dreamer, realist, and critic). ✅
 - Boil down what your MVP is and what then becomes stretch goals. Break down your idea into its component parts and prioritise your tasks. Use project management software like [Trello](https://trello.com/en) to organize your plan, breaking it down into tasks that you can then treat as tickets for each feature. Base each of these around a [user story](https://www.atlassian.com/agile/project-management/user-stories).
 - Create a component tree with state and behaviour for each component and at least low-fidelity wireframes for your design.
 
